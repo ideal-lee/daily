@@ -7,3 +7,5 @@ remote write1
 remote write2
 
 remote write3
+
+local write2
