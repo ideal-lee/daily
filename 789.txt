@@ -9,3 +9,5 @@ remote write2
 remote write3
 
 local write2
+
+master new
