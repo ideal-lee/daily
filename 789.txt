@@ -5,3 +5,5 @@ bend+1
 remote write1
 
 remote write2
+
+remote write3
